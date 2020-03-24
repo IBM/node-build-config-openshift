@@ -1,3 +1,4 @@
+# Use the official Node 10 image
 FROM node:10
 
 # Change directory to /usr/src/app
