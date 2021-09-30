@@ -1,5 +1,5 @@
 # Use the official Node 10 image
-FROM node:10
+FROM node:16
 
 # Change directory to /usr/src/app
 WORKDIR /usr/src/app
