@@ -1,4 +1,4 @@
-# Use the official Node 10 image
+# Use the official Node 16 image
 FROM node:16
 
 # Change directory to /usr/src/app
